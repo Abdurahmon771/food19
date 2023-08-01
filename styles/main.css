@@ -1,4 +1,5 @@
 @import 'fonts.css';
+
 * {
     margin: 0;
     padding: 0;
@@ -21,3 +22,49 @@ a {
     padding: 0 15px;
 }
 
+.about {
+    padding: 0 0 0 444px;
+    font-size: 42px;
+    min-height: 55px;
+}
+
+.about__txt {
+    padding: 0 0 0 377px;
+    min-height: 100px;
+}
+
+.txt {
+    width: 250px;
+}
+
+.container .cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__about {
+    padding: 30px 0 30px 0;
+    min-height: 44px;
+}
+
+.card__about2 {
+    padding: 30px 0 30px 0;
+    min-height: 44px;
+}
+
+.txt2 {
+    width: 250px;
+}
+
+.card__about3 {
+    padding: 30px 0 30px 0;
+    min-height: 44px;
+}
+
+.txt3 {
+    width: 250px;
+}
+
+.number {
+    padding: 0 0 0 350px;
+}
