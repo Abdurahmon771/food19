@@ -21,6 +21,7 @@ a {
     padding: 0 15px;
 }
 
+
 .section__end {
     background-color: #fff;
     width: 100%;
@@ -65,6 +66,41 @@ a {
     background: #2C9553 100%;
     color: #fff;
     padding: 17px 32px;
+=======
+
+.header__nav {
+    padding: 48px 0;
+}
+
+.header__nav .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav__list {
+    display: flex;
+    column-gap: 40px;
+}
+
+
+.nav__icons {
+    display: flex;
+    column-gap: 20px;
+}
+
+.nav__link a{
+    color: #2C3847;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "roboto";
+}
+
+.nav__title {
+    max-width: 160px;
+    width: 100%;
+    border-radius: 27px;
+background: #494949;
+
 }
 
 
